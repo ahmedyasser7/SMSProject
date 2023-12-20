@@ -1,0 +1,18 @@
+# We do not need this code:
+# Do not use it again.
+  student_info.place(x=1,y=1,width=500,height=700)
+  title.place(x=10,y=1)
+  lb1_ID.place(x=10,y=50)
+  text_ID.place(x=120,y=50)
+  lb1_name.place(x=10,y=90)
+  text_name.place(x=120,y=90)
+  lb1_gba.place(x=10,y=130)
+  text_gba.place(x=120,y=130)
+  lb1_email.place(x=10,y=170)
+  text_email.place(x=120,y=170)
+  lb1_section.place(x=10,y=210)
+  combosection.place(x=120,y=210)
+  lb1_level.place(x=10,y=250)
+  combolevel.place(x=120,y=250)
+  lb1_address.place(x=10,y=290)
+  text_address.place(x=120,y=290,width=300,height=50)
